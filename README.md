@@ -44,7 +44,6 @@ I want to align myself with a company that believes in the power of data driven 
 - 🌱 I graduated with a Master of Science in Business Analytics from the University of Maryland, College Park
 - 📫 How to reach me: vivekshiv94@live.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love 3D printers and have experience working on building the Firmware and Electronics Framework for India's Largest 3D printer
 
 [![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vshiv667)](https://github.com/anuraghazra/github-readme-stats)
 	
