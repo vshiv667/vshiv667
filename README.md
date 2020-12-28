@@ -7,31 +7,31 @@
 -->
 
 <p align="center">
-  <img src="https://github.com/vshiv667/Vivek_Readme/blob/main/intro.jpg", style="border:0px;margin:0px;float:right" />
+  <img src="https://github.com/vshiv667/vshiv667/blob/main/intro.jpg", style="border:0px;margin:0px;float:right" />
 </p>
 
 
 
 <p align="center">
   <a href="mailto: vivekshiv94@live.com">
-  <img src="https://github.com/vshiv667/Vivek_Readme/blob/main/email.png", style="border:0px;margin:0px;float:right" height = "100" width="100"/>
+  <img src="https://github.com/vshiv667/vshiv667/blob/main/email.png", style="border:0px;margin:0px;float:right" height = "100" width="100"/>
   </a>
 
 
   <a href="https://www.linkedin.com/in/viveksivarama">
-  <img src="https://github.com/vshiv667/Vivek_Readme/blob/main/linkedin2.png" style=”float:right” height = "100" width="100" />
+  <img src="https://github.com/vshiv667/vshiv667/blob/main/linkedin2.png" style=”float:right” height = "100" width="100" />
   </a>
                                                                                       
   <a href="https://public.tableau.com/profile/vshiv667#!">
-  <img src="https://github.com/vshiv667/Vivek_Readme/blob/main/tableau.jpg", style=”float:right”/ height = "100" width="100">
+  <img src="https://github.com/vshiv667/vshiv667/blob/main/tableau.jpg", style=”float:right”/ height = "100" width="100">
   </a>
   
   <a href="https://www.hackerrank.com/mendis_vivek99">
-  <img src="https://github.com/vshiv667/Vivek_Readme/blob/main/hackerrank.jpeg", style=”float:right”/ height = "100" width="100">
+  <img src="https://github.com/vshiv667/vshiv667/blob/main/hackerrank.jpeg", style=”float:right”/ height = "100" width="100">
   </a>
   
   <a href="https://viveksivalingam.com">
-  <img src="https://github.com/vshiv667/Vivek_Readme/blob/main/website.png", style=”float:right”/ height = "100" width="100">
+  <img src="https://github.com/vshiv667/vshiv667/blob/main/website.png", style=”float:right”/ height = "100" width="100">
   </a>
   
   
