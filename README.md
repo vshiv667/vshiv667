@@ -43,7 +43,6 @@ I want to align myself with a company that believes in the power of data driven 
 - 🔭 I am currently working as a Graduate Research Assistant at NEXTOR - National Center of Excellence for Aviation Operations Research
 - 🌱 I graduated with a Master of Science in Business Analytics from the University of Maryland, College Park
 - 📫 How to reach me: vivekshiv94@live.com
-- 😄 Pronouns: He/Him
 
 [![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vshiv667)](https://github.com/anuraghazra/github-readme-stats)
 	
