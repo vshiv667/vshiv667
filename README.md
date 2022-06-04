@@ -6,10 +6,11 @@
 
 -->
 
+<!-- this title "DATA SCIENCE" CARD HAS BEEN COMMENTED OUT.
 <p align="center">
   <img src="https://github.com/vshiv667/vshiv667/blob/main/intro.jpg", style="border:0px;margin:0px;float:right" />
 </p>
-
+-->
 
 
 <p align="center">
