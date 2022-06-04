@@ -38,9 +38,10 @@
 </p>
 
 
-I want to align myself with a company that believes in the power of data driven decision-making and values diversity. I am always looking to learn more and am open to taking on challenging projects where I can create a positive impact.
+I want to align myself with a company that believes in the power of data driven decision-makin. I am always looking to learn more and am open to taking on challenging projects where I can create an impact.
 
-- 🔭 I am currently working as a Graduate Researcher at NEXTOR - National Center of Excellence for Aviation Operations Research
+- 🔭 I am currently working as a Data Analyst at Traeger
+- 🔭 I have experience working as a Graduate Researcher at NEXTOR - National Center of Excellence for Aviation Operations Research
 - 🌱 I graduated with a Master of Science in Business Analytics from the University of Maryland, College Park
 - 📫 How to reach me: vivekshiv94@live.com
 
